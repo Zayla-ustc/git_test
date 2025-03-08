@@ -1,6 +1,6 @@
 
 
 int  main(){
-    __PRAGMA_REDEFINE_EXTNAME;
+    printf("1");
     return 0;
 }
